@@ -396,7 +396,7 @@ const Footer = () => {
               onClick={() => handleLinkClick("privacypolicy")}
               className="my-2 px-1"
               style={{ cursor: "pointer", textDecoration: "none", color: "black" }}
-            >
+            > 
               Privacy Policy
             </p>
             <p>©2023 - 2024 Driftmark Technology Pvt. Ltd. All Rights Reserved</p>

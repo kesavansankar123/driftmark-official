@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f3fadf8.css",
+    "main.js": "/static/js/main.3c7b32de.js",
+    "static/media/courosalNew.jpg": "/static/media/courosalNew.3fc6d111a8c09282b9c9.jpg",
+    "static/media/ITteam.jpg": "/static/media/ITteam.2a164f1ef2537ce3728a.jpg",
+    "static/media/InnovationSecond.jpg": "/static/media/InnovationSecond.dafcba0a3f314a683674.jpg",
+    "static/media/HomeSecond.jpg": "/static/media/HomeSecond.0624c27bf23b097c78c7.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/courosalsecurity.jpg": "/static/media/courosalsecurity.c0c0f5931f41ebc98c52.jpg",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Enterpriseimg.jpg": "/static/media/Enterpriseimg.479bc9bccd988676f676.jpg",
+    "static/media/courosalboy.jpg": "/static/media/courosalboy.0aae0917232b7126a707.jpg",
+    "static/media/servicesFrontimg.jpg": "/static/media/servicesFrontimg.f9cf98dfefd2a5e6f40b.jpg",
+    "static/media/AboutSecond.jpg": "/static/media/AboutSecond.c7a4fc669d369101630d.jpg",
+    "static/media/cloudnew.jpg": "/static/media/cloudnew.0864a067286d3aab8497.jpg",
+    "static/media/TechnologyFingertip.jpg": "/static/media/TechnologyFingertip.f8cff12530763e56a2b8.jpg",
+    "static/media/Cyber.jpg": "/static/media/Cyber.2e83e09dab6044b55e14.jpg",
+    "static/media/Consulting.jpg": "/static/media/Consulting.c0fc4a48b597c60bec4e.jpg",
+    "static/media/FrontPage.jpg": "/static/media/FrontPage.a0b0a892a6c6f8067700.jpg",
+    "static/media/Frontpage2.jpg": "/static/media/Frontpage2.8c2aed9c673db49aae34.jpg",
+    "static/media/Webdevelopment.jpg": "/static/media/Webdevelopment.919e4220fd0c0a0c12a5.jpg",
+    "static/media/MobileApp.jpg": "/static/media/MobileApp.18280526a9fbe883894c.jpg",
+    "static/media/Revolution.jpg": "/static/media/Revolution.9c9833e5f1f2613ba417.jpg",
+    "static/media/Flutter.jpg": "/static/media/Flutter.1251c019e938e13bb022.jpg",
+    "static/media/CustomSolution.jpg": "/static/media/CustomSolution.b0e9334afa2ea06c9b1b.jpg",
+    "static/media/ReactImg.jpg": "/static/media/ReactImg.8a28c54d5d8f0ff6230e.jpg",
+    "index.html": "/index.html",
+    "main.3f3fadf8.css.map": "/static/css/main.3f3fadf8.css.map",
+    "main.3c7b32de.js.map": "/static/js/main.3c7b32de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3fadf8.css",
+    "static/js/main.3c7b32de.js"
+  ]
+}
